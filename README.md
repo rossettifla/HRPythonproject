@@ -14,17 +14,16 @@ The goal of the project verify the gender differences from this data set and ans
 The project repo includes the following files: 
 
 > Requirements.txt - Include the packages necessary to run the program. 
+
 > HR Dataset.CSV - Data set utilized for the project
+
 > Genderdifferencesproject.ipynb - Project Completed. 
 
 Project Requirements: 
 
 Feature 1 Read data - Read data from a csv file. 
 
-Feature 2 - Manipulate and clean your data: Converted Date of Hire to date format to extract the year of hire (this data will be used later in a chart). Calculated tenure from Date of Hire and calculated age from Date of Birth. 
-Feature 2: Use custom functions or lambdas to perform specific operations to clean or manipulate your data, return those values, then use them in other parts of your project.
-
-Note: Project plan included for feature 2 verify if the employee is active or terminated – I noticed that the data set already has employee status. So I decided to change to the feature described above. 
+Feature 2 - Manipulate and clean your data: Converted Date of Hire to date format to extract the year of hire (this data will be used later in a chart). Calculated tenure from Date of Hire and calculated age from Date of Birth. Note: Project plan included for feature 2 verify if the employee is active or terminated – I noticed that the data set already has employee status. So I decided to change to the feature described above. 
 
 Feature 3 -  Analyze your data: Counted number of males and females per employment status, calculated average of salary, tenure, and age per gender. Utilized groupby function for calculations. 
 
