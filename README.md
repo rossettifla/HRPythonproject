@@ -13,11 +13,11 @@ The goal of the project verify the gender differences from this data set and ans
 
 The project repo includes the following files: 
 
-Requirements.txt - Include the packages necessary to run the program. 
+•   Requirements.txt - Include the packages necessary to run the program. 
 
-HR Dataset.CSV - Data set utilized for the project.
+•   HR Dataset.CSV - Data set utilized for the project.
 
-Genderdifferencesproject.ipynb - Project Completed.
+•   Genderdifferencesproject.ipynb - Project Completed.
 
 Project Requirements: 
 
