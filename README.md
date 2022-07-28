@@ -1,5 +1,5 @@
 # HRPythonproject
-About The Project: 
+## About The Project: 
 
 I currently work in Human Resources and I would like with this project to mock a real-life experience on how to use data analytics to find areas of improvement in an organization. This project is utilizing the Human Resources data set from Kaggle (https://www.kaggle.com/datasets/rhuebner/human-resources-data-set). This data set includes a companies with a list of employees and additional information such as names, DOBs, age, gender, marital status, date of hire, reasons for termination, department, position title, pay rate, manager name, and performance score.
 
@@ -19,7 +19,14 @@ The project repo includes the following files:
 
 •   Genderdifferencesproject.ipynb - Project Completed.
 
-Project Requirements: 
+## Running the program: 
+
+1. Clone my repository
+2. Have Python 3 installed on your machine
+3. From the directory pip install the requirements.txt file by running "pip install -r requirements.txt"
+
+
+## Project Requirements: 
 
 Feature 1 Read data - Read data from a csv file. 
 
